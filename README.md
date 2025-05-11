@@ -1,9 +1,7 @@
-# Create Metallic App
+# Create MetallicJS App
 
 <p align="center">
-
-
-  <img src="https://github.com/metallicjs/create-metallic-app/metallicjs-icon.svg" alt="MetallicJS Logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/metallicjs/create-metallic-app/c0a3cdc185e3f893f8533e5d1d169ddab5732371/metallicjs-icon.svg" alt="MetallicJS Logo" width="50" height="50">
 </p>
 
 <p align="center">

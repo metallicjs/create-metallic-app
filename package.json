@@ -1,6 +1,6 @@
 {
   "name": "create-metallic-app",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Create MetallicJS apps with one command",
   "main": "dist/index.js",
   "bin": {
