@@ -18,7 +18,7 @@
 
 ## Overview
 
-`create-metallicjs-app` is the official CLI tool for bootstrapping MetallicJS applications. It provides a seamless way to create new projects with various templates, allowing you to get started with development in seconds rather than hours.
+`create-metallic-app` is the official CLI tool for bootstrapping MetallicJS applications. It provides a seamless way to create new projects with various templates, allowing you to get started with development in seconds rather than hours.
 
 ## Getting Started
 
@@ -33,13 +33,13 @@ To create a new MetallicJS project, run:
 
 ```bash
 # Using npx (recommended)
-npx create-metallicjs-app my-app
+npx create-metallic-app my-app
 
 # Using pnpm
-pnpm dlx create-metallicjs-app my-app
+pnpm dlx create-metallic-app my-app
 
 # Using yarn
-yarn dlx create-metallicjs-app my-app
+yarn dlx create-metallic-app my-app
 ```
 
 This will create a directory called `my-app` inside the current folder, generate the initial project structure, and install all dependencies.
@@ -64,7 +64,7 @@ MetallicJS offers several starter templates to match your project needs:
 A simple  Next.js + Express application perfect for getting started quickly.
 
 ```bash
-npx create-metallicjs-app my-app
+npx create-metallic-app my-app
 ```
 
 **Features:**
@@ -76,7 +76,7 @@ npx create-metallicjs-app my-app
 
 
 ```bash
-npx create-metallicjs-app my-app --template saas-lite
+npx create-metallic-app my-app --template saas-lite
 ```
 
 **Features:**
@@ -92,7 +92,7 @@ npx create-metallicjs-app my-app --template saas-lite
 A standalone Express API server, perfect for building backend services or microservices.
 
 ```bash
-npx create-metallicjs-app my-app --template api-only
+npx create-metallic-app my-app --template api-only
 ```
 
 **Features:**

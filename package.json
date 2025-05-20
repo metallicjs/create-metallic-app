@@ -1,6 +1,6 @@
 {
   "name": "create-metallic-app",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Create MetallicJS apps with one command",
   "main": "dist/index.js",
   "bin": {
@@ -21,7 +21,7 @@
     "create-app",
     "cli"
   ],
-  "author": "MetallicJS Team",
+  "author": "Kehinde Oke",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
